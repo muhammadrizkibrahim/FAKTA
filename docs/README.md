@@ -24,9 +24,10 @@ Proyek ini memudahkan pemantauan berita terkini dari berbagai media nasional dan
 - **Antarmuka web** berbasis Streamlit — mudah digunakan tanpa perlu setup tambahan
 - **Scraping berita** dari media nasional dan lokal secara otomatis
 - **Filter wilayah** — fokus pada berita yang relevan dengan Kepulauan Riau
+- **Filter waktu** — masukkan durasi waktu yang diinginkan
 - **Pencarian kata kunci** — masukkan topik yang ingin dipantau
-- **Visualisasi data** — wordcloud dan grafik tren berita
-- **Ekspor CSV** — simpan hasil scraping untuk analisis lebih lanjut
+- **Visualisasi data (Analisis Lanjutan)** — wordcloud dan grafik tren berita
+- **Ekspor CSV/xlsx** — simpan hasil scraping untuk analisis lebih lanjut
 
 ## Tech Stack
 
