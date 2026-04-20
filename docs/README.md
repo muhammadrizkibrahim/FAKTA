@@ -3,8 +3,7 @@
 # FAKTA
 ### Fenomena Aktual Terkini
 
-**Agregator & scraper berita berbasis web untuk wilayah Kepulauan Riau**  
-Dikembangkan dari [okkymabruri/news-watch](https://github.com/okkymabruri/news-watch)
+**Agregator & scraper berita otomatis berbasis web untuk wilayah Kepulauan Riau**  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -44,14 +43,27 @@ Proyek ini memudahkan pemantauan berita terkini dari berbagai media nasional dan
 
 ### Media Nasional
 - Antaranews
-- Kompas
+- Alurnews
+- Bisnis
+- Bloomberg
+- CNBC
 - Detik
-- *(dan lainnya)*
+- Jawapos
+- Katadata
+- Kompas
+- Kontan
+- Media Indonesia
+- Metro TV
+- Okezone
+- Tempo
+- Ulasan
+- Viva
 
 ### Media Lokal Kepri
 - Batamnews
+- Kepriantaranews
+- Keprinews
 - Tribun Batam
-- *(dan lainnya)*
 
 > Semua sumber difilter untuk menampilkan berita yang relevan dengan wilayah **Kepulauan Riau**.
 
@@ -59,7 +71,7 @@ Proyek ini memudahkan pemantauan berita terkini dari berbagai media nasional dan
 
 ```bash
 # Clone repositori
-git clone https://github.com/<username>/fakta.git
+git clone https://github.com/muhammadrizkibrahim/fakta.git
 cd fakta
 
 # Buat virtual environment (opsional tapi disarankan)
