@@ -1,6 +1,7 @@
 <div align="center">
 
 # FAKTA
+
 ### Fenomena Aktual Terkini
 
 **Agregator & scraper berita otomatis berbasis web**  
