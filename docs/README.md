@@ -3,7 +3,7 @@
 # FAKTA
 ### Fenomena Aktual Terkini
 
-**Agregator & scraper berita otomatis berbasis web untuk wilayah Kepulauan Riau**  
+**Agregator & scraper berita otomatis berbasis web**  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
